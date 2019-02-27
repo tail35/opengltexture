@@ -1,1 +1,1 @@
-# opengltexture
+# openglstudy
